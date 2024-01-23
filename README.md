@@ -14,7 +14,7 @@ The audio files used in this tutorial were kindly provided by the [United States
 
 ## How to use
 The Jupyter notebook included in this tutorial was designed to run in the Google Colab environment, taking advantage of Google's infrastructure and preinstalled software. 
-To run it on Google Colab click [here](https://github.com/EHRI/ehri-data-analysis-tools/blob/master/automatic-speech-recognition/Oral_Testimonies_ASR_Tool_Guide.ipynb).
+To run it on Google Colab click [here](https://colab.research.google.com/github/EHRI/ehri-data-analysis-tools/blob/master/automatic-speech-recognition/Oral_Testimonies_ASR_Tool_Guide.ipynb).
 
 The notebook assumes (and was tested with) a **T4 GPU** runtime environment provided by Google Colab. Google Colab should automatically connect to a T4 GPU runtime. 
 If it doesn't, follow the instructions found [here](https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/) to change the runtime type manually.
