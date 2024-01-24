@@ -28,7 +28,7 @@ This tutorial was built using **Python 3.10.12** and requires the following libr
 `faster_whisper 0.10.0`  
 `pysubs2 1.6.1`
 
-In case of installation errors, please consult the installation instructions of each package individually.
+In case of installation errors, please consult the installation instructions of each module individually.
 
 ## How to cite
 Dermentzi, M. (2024, January). Transcribing Oral Testimonies with Automatic Speech Recognition. EHRI Collection of Digital Tools Guides. https://github.com/EHRI/ehri-data-analysis-tools/tree/master/automatic-speech-recognition
